@@ -8,8 +8,8 @@ Welcome to my third and final project for the PerScholas Software Engineer Immer
 <h3>Tools & Processes Employed:</h3>
 <li>HTML5 and CSS3</li>
 <li>React: Components, Props, Events, Hooks, Router</li>
-<li>API: Store</li>
-<li>Node & Express: Web API, Body Parser, File Upload, JWT</li>
+<li>API</li>
+<li>Node & Express: Body Parser, File Upload, JWT</li>
 <li>MongoDB: Mongoose</li>
 <li>Development: Github</li>
 <li>Deployment: Render</li>
