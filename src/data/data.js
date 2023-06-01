@@ -30,7 +30,7 @@ export const foodTypes = [
         id: crypto.randomUUID()
     },
     {
-        name: 'Entrées',
+        name: 'Entrees',
         img: bowl1,
         id: crypto.randomUUID()
     },
