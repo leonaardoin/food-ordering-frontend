@@ -1,11 +1,11 @@
 import React from 'react'
 import classes from './hero.module.css'
 import {AiOutlineArrowDown} from 'react-icons/ai'
-import manEating from '../../assets/man_eating.png'
+import manEating from '../../assets/scooter_delivery.png'
 
 const Hero = () => {
   return (
-    <section style={{height: '200vh'}} id="home" className={classes.container}>
+    <section style={{height: '125vh'}} id="home" className={classes.container}>
       <div className={classes.wrapper}>
         <div className={classes.left}>
           <h2 className={classes.title}>Vegan Food Delivery</h2>
@@ -19,7 +19,7 @@ const Hero = () => {
           </p>
           <div className={classes.buttons}>
             <button className={classes.buttonOrder}>Order now!</button>
-            <button className={classes.buttonSee}><a href="#foods">See what's available <AiOutlineArrowDown/> </a></button>
+            <button className={classes.buttonSee}><a href="#foods">See what's cooking <AiOutlineArrowDown/> </a></button>
           </div>
         </div>
         <div className={classes.right}>

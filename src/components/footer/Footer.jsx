@@ -14,7 +14,7 @@ const Footer = () => {
             <li>Saturday</li>
             <li className={classes.workingTime}>10:00am - 10:00pm</li>
             <li>Sunday</li>
-            <li className={classes.workingTime}>12:00pm - 6:00pm</li>
+            <li className={classes.workingTime}>12:00pm - 06:00pm</li>
           </ul>
         </div>
         <div className={classes.col}>

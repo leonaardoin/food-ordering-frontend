@@ -25,7 +25,7 @@ import bowl5 from '../assets/bowl5.jpg'
 
 export const foodTypes = [
     {
-        name: 'Vegan Burgers',
+        name: 'Sandwiches',
         img: hamburger1,
         id: crypto.randomUUID()
     },
@@ -46,8 +46,6 @@ export const foodTypes = [
     },
 ]
 
-
-// 24 foods (6 burger, 6 gyros, 6 pizza, 6 pasta)
 export const foods = [
     {
         name: 'Hamburger 1',

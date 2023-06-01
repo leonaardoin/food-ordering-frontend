@@ -10,8 +10,8 @@ const Checkout = () => {
   return (
     <div className={classes.container}>
       <div className={classes.wrapper}>
-        <h2>Your order is successful</h2>
-        <p>Expect it in 1 hour</p>
+        <h2>Your Food Is On It's Way!</h2>
+        <p>Get Ready to Eat Good!</p>
         <span>Total Price: ${totalPrice}</span>
       </div>
     </div>

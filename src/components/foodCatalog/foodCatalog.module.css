@@ -17,7 +17,7 @@
 .title{
     margin-bottom: 5rem;
     font-size: 36px;
-    color: #f00;
+    color: green;
 }
 
 .foods{
@@ -70,7 +70,7 @@
 
 .price > span{
     font-size: 20px;
-    color: #f00;
+    color: black;
 }
 
 .noQuantity{
