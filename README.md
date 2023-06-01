@@ -37,5 +37,5 @@ https://github.com/leonaardoin/food-ordering-backend.git
 <h3>Unsolved Problems:</h3>
 <li>Unable to implement token based authentication and authorize user functions.</li>
 
-<h3>Future Enhancements:<h3>
-  <li>Adding complete token based authentication for a full user experience.</li>
+<h3>Future Enhancements:</h3>
+<li>Adding complete token based authentication for a full user experience.</li>
