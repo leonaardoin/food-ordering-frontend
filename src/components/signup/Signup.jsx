@@ -17,7 +17,7 @@ const Signup = () => {
   const handleSignup = async(e) => {
     e.preventDefault()
     try {
-      const res = await fetch(`mongodb+srv://leonaardoin:HEQAwY8uGJD4ky64@cluster0.f4yllmv.mongodb.net/?retryWrites=true&w=majority`, {
+      const res = await fetch(`http://localhost:3000/auth/register`, {
         headers: {
           "Content-Type": 'application/json'
         },
